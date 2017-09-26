@@ -1,0 +1,12 @@
+c:\users\ztdesktop1\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+c:\users\ztdesktop1\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\users\ztdesktop1\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\users\ztdesktop1\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+c:\users\ztdesktop1\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\users\ztdesktop1\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\ZTDesktop1\Documents\2017-Top-Programming-Languages-Csharp\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\ZTDesktop1\Documents\2017-Top-Programming-Languages-Csharp\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\ZTDesktop1\Documents\2017-Top-Programming-Languages-Csharp\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\ZTDesktop1\Documents\2017-Top-Programming-Languages-Csharp\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\ZTDesktop1\Documents\2017-Top-Programming-Languages-Csharp\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\ZTDesktop1\Documents\2017-Top-Programming-Languages-Csharp\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
